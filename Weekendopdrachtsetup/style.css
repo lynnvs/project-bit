@@ -1,0 +1,36 @@
+/* Schrijf hier de CSS om de tabel er mooi uit te laten zien */
+
+table{
+	width:800px;
+	margin: auto;
+	text-align: center;
+	border: 3px solid black;	
+	background-color: grey;
+	margin-top: 30px;
+}
+
+.container {
+  position: relative;
+}
+
+.topleft {
+  position: absolute;
+}
+
+img { 
+  width: 140px;
+  height: 140px;
+  
+}
+
+html{
+	height: 100%;
+}
+
+body{
+	background-color: #ADADAD;
+}
+
+#searchdiv{
+	padding-left: 25%;
+}
